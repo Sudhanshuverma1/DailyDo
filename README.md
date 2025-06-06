@@ -1,13 +1,12 @@
 # 📝 Todo List App
 
-A beautiful, responsive, and feature-rich **Todo List Web Application** built using **HTML**, **CSS**, and **Vanilla JavaScript**. Designed with elegant UI/UX and smart functionality to manage your daily tasks effectively.
+A beautiful, responsive, and feature-rich **Todo List Web Application** built using **HTML**, **CSS**, and **JavaScript**. Designed with elegant UI/UX and smart functionality to manage your daily tasks effectively.
 
 ---
 
 ## 📌 Live Demo
 
-🌐 [Click here to view the live app](https://yourusername.github.io/todo-list-app)  
-*(Replace with your GitHub Pages link if deployed)*
+🌐 [Click here to view the live app](https://sudhanshuverma1.github.io/DailyDo/)  
 
 ---
 
